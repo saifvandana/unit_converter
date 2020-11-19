@@ -1,6 +1,6 @@
 # unit_converter
 
-A new Flutter project.
+A new Flutter project that allows the user to convert units of measurements.
 
 ## Getting Started
 
